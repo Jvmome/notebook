@@ -2,7 +2,7 @@
   "name": "Jupyter Notebook",
   "build": {
     "dockerfile": "Dockerfile",
-    "context": ".."
+    "context": ".." 
   },
   "forwardPorts": [8888],
   "customizations": {
